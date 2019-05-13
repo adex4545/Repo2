@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 7C4E-86D4
+
+ Directory of C:\Users\AYATU\Desktop\MyProjectGIT
+
+13/05/2019  10:20    <DIR>          .
+13/05/2019  10:20    <DIR>          ..
+13/05/2019  10:18                 0 dir
+13/05/2019  10:20                 0 text1.txt
+               2 File(s)              0 bytes
+               2 Dir(s)  368,731,693,056 bytes free
